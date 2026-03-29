@@ -1,4 +1,7 @@
 dataset.csv
 cleaned_visa_dataset.csv
 cleaned_visa_feature_engineered_dataset.csv
+model.pkl
 rf_model.pkl
+vs14.jpg
+
