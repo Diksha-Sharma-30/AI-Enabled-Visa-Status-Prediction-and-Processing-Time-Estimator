@@ -3,7 +3,7 @@
 ## 📌 Overview
 This project applies **machine learning** to predict visa application outcomes and estimate processing times. It is designed to assist applicants, consultants, and policymakers by providing data-driven insights into visa decisions.
 
-## APP LINK- https://visa-status-prediction-time-estimator-diksha.streamlit.app/ 
+## WebAPP LINK- https://visa-status-prediction-time-estimator-diksha.streamlit.app/ 
 ---
 
 ## 🚀 Features
